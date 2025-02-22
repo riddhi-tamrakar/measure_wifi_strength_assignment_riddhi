@@ -2,6 +2,10 @@
 
 This project is an assignment that demonstrates the collection, storage, and visualization of Wi-Fi signal strength data combined with location information. The app uses Mapbox to render 3D maps and overlays and GetX for state management.
 
+# Demo APK
+
+https://drive.google.com/file/d/1y7rm7tgcY2CGhsi9yGk9SArQ_WT0ityk/view?usp=sharing
+
 ## Features
 
 ### 1. Wi-Fi Signal Data Collection
