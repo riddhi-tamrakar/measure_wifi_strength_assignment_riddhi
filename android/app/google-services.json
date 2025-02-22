@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616633614046",
+    "project_id": "uxeloft-e9eaa",
+    "storage_bucket": "uxeloft-e9eaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616633614046:android:04cc91895540369992cc4f",
+        "android_client_info": {
+          "package_name": "com.example.uxeloft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8-lxy3Mma1PoVYq0HrsZufmV6iRR4yM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
