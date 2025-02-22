@@ -32,8 +32,7 @@ This project is an assignment that demonstrates the collection, storage, and vis
 ## Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
-- An Android device or emulator (this project targets Android)
-- A [Mapbox Access Token](https://account.mapbox.com/access-tokens/) (replace the placeholder in the code)
+- An Android device (this project targets Android)
 
 ## Dependencies
 
@@ -52,8 +51,8 @@ Make sure these dependencies are declared in your `pubspec.yaml`.
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/riddhi-tamrakar/measure_wifi_strength_assignment_riddhi
+   cd measure_wifi_strength_assignment_riddhi
 
 2. **Get the dependencies:**
 
